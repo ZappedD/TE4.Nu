@@ -1,0 +1,17 @@
+{
+  "name": "TE4.Nu",
+  "homepage": "https://github.com/ZappedD/TE4.Nu",
+  "authors": [
+    "ZappedD <jacobjw4@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
