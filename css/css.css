@@ -7,7 +7,15 @@ and open the template in the editor.
     Created on : 2017-sep-26, 10:42:08
     Author     : jacobwahlstrom
 */
-#carusel{
-    max-height: 90%;
-    width: 100%;
+#carusel-img{
+    max-height: 37em;
+}
+
+#infoSmall{
+    height: 100%;
+}
+
+a{
+    margin: 0px important!; 
+    padding: 0px;
 }

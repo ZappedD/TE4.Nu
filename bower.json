@@ -15,7 +15,6 @@
     "tests"
   ],
   "dependencies": {
-    "botstrap": "bootsrap#*",
     "bootstrap": "4.0.0-beta"
   }
 }
